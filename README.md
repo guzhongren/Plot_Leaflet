@@ -1,6 +1,15 @@
 # Plot_Leaflet
 基于Leaflet(***ES6***)的标绘实现
 
+
+## 基础环境
+| 序号      | 名称      | 版本       |
+| :------:  |:-------- | :----------|
+|1          |Node      | ^v6.10.3LTS|
+|2          |Typesctipt| ^2.3       |           
+|3          |Webpack   | 2          |
+|4          |Babel     | 2          |
+
 ## 获取
 ```
 git clone https://github.com/Guzhongren/Plot_Leaflet.git

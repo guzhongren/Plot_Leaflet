@@ -16,12 +16,11 @@ git clone https://github.com/Guzhongren/Plot_Leaflet.git
     npm install -g webpack@2.6.1 webpack-dev-server@2.4.5
     ```
 ## 运行
-    ```
-    npm run dev
-    ```
-
-
+运行
+```
+npm run dev
+```
 ### 参考
-    1. [babel](http://babeljs.cn/)
-    2. [webpack2](https://webpack.js.org/)
-    3. [Leaflet](http://leafletjs.com/2017/06/27/leaflet-1.1.0.html)
+1. [Babel](http://babeljs.cn/)
+2. [webpack2](https://webpack.js.org/)
+3. [Leaflet](http://leafletjs.com/2017/06/27/leaflet-1.1.0.html)
